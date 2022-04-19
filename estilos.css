@@ -1,0 +1,19 @@
+.entiendo {
+    color: aqua;
+}
+.rosa{
+    color: rgb(244, 23, 159);
+}
+.dobleray{
+   text-decoration-line: underline overline;
+
+}
+.dobleray:hover{
+    background-color: rgb(36, 36, 219);
+}
+
+
+.gigante{
+    font-size: xx-large;
+    font-weight:bold;
+}
